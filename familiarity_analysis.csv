@@ -1,0 +1,41 @@
+true_label,predicted_label,confidence,max_train_embedding_similarity,correct
+antibiotic target alteration,antibiotic target alteration,0.9995838156866544,0.86224324,1
+antibiotic inactivation,antibiotic inactivation,0.9999774497304097,0.7461176,1
+antibiotic target alteration,antibiotic target alteration,0.9999402094460518,0.88503915,1
+antibiotic target replacement,antibiotic target replacement,0.9999997369192936,0.9533581,1
+antibiotic efflux,antibiotic efflux,0.9991751098869569,0.67179775,1
+antibiotic inactivation,others,1.0,0.43707532,0
+antibiotic target protection,antibiotic target protection,0.9995787770406457,0.9675894,1
+antibiotic target protection,antibiotic target protection,0.9999999912057017,0.9994805,1
+antibiotic target replacement,antibiotic target replacement,0.9999999943857281,0.6346176,1
+antibiotic target replacement,antibiotic target replacement,0.9999944407245922,0.9408763,1
+antibiotic inactivation,antibiotic inactivation,0.9997465636168897,0.9243785,1
+antibiotic target replacement,antibiotic target replacement,0.9999833798481464,0.98645353,1
+antibiotic target protection,antibiotic target protection,0.9996064225537604,0.93414545,1
+antibiotic inactivation,antibiotic inactivation,0.9997930379189143,0.9928745,1
+antibiotic target alteration,antibiotic inactivation,0.9987536722937715,0.5620916,0
+antibiotic target protection,antibiotic target protection,0.9999999925936871,0.99735594,1
+antibiotic efflux,antibiotic efflux,0.9998840634620384,0.97156966,1
+antibiotic efflux,antibiotic efflux,0.9993712327197837,0.80277944,1
+antibiotic efflux,antibiotic target replacement,1.0,0.3589252,0
+antibiotic target alteration,antibiotic target alteration,0.999263106740359,0.94977546,1
+antibiotic inactivation,antibiotic inactivation,0.9997955907546786,0.74431366,1
+others,antibiotic efflux,1.0,0.43084335,0
+antibiotic target replacement,antibiotic target replacement,0.9997264600761778,0.86315984,1
+antibiotic target alteration,antibiotic efflux,0.998639242435021,0.8492964,0
+antibiotic target protection,antibiotic target protection,0.9999999870817204,0.99954236,1
+antibiotic target alteration,antibiotic target alteration,0.9999565334493866,0.88827103,1
+antibiotic target protection,antibiotic target protection,0.9999999872971986,0.99930483,1
+antibiotic target protection,antibiotic target protection,0.9999999821965714,0.99871385,1
+others,others,0.9996411774773897,0.7786837,1
+antibiotic target alteration,antibiotic target alteration,0.9994640635217275,0.94574475,1
+antibiotic efflux,antibiotic efflux,0.9997561804349627,0.98651576,1
+antibiotic target replacement,antibiotic target replacement,0.9999507969416296,0.93781644,1
+antibiotic inactivation,antibiotic inactivation,0.9998926951990891,0.98987204,1
+antibiotic target replacement,antibiotic efflux,1.0,0.46012613,0
+antibiotic efflux,others,0.999990661431804,0.38182163,0
+antibiotic inactivation,antibiotic inactivation,0.9998464213064774,0.95098245,1
+antibiotic efflux,antibiotic efflux,0.9998505407760601,0.8811018,1
+antibiotic efflux,antibiotic efflux,0.9998716858769724,0.95258695,1
+antibiotic target protection,antibiotic target protection,0.9999999897270385,0.998553,1
+antibiotic target alteration,antibiotic target alteration,0.9999353188609508,0.9721012,1
