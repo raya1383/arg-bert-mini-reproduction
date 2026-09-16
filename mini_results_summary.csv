@@ -1,0 +1,3 @@
+model,accuracy,macro_precision,macro_recall,macro_f1
+AA 3-mer TF-IDF + Logistic Regression,0.725,0.6869658119658121,0.6309523809523809,0.6244810744810745
+Frozen ProteinBERT embeddings + Logistic Regression,0.825,0.7857142857142856,0.7857142857142857,0.7795518207282913
